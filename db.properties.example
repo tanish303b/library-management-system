@@ -1,0 +1,5 @@
+# Copy this file to db.properties and fill in your MySQL password.
+# db.properties is ignored by git so your password is never uploaded.
+db.url=jdbc:mysql://localhost:3306/library_db?createDatabaseIfNotExist=true
+db.user=root
+db.password=your_mysql_password
